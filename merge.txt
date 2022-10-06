@@ -1,6 +1,6 @@
-fusion
+nouveau conflit
 
-nouvelle ligne
+conflit
 
 
-nouvelle ligne
+conflit
