@@ -1,6 +1,5 @@
-conflict
+conflit
 
-conflict
-
+merge
 
 conflict
