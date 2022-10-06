@@ -1,6 +1,6 @@
-nouveau conflit
-
 conflit
 
+merge
 
-conflit
+
+merge
